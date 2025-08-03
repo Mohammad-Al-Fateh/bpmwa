@@ -1,0 +1,9 @@
+edit user
+edit studnet
+edit  exam
+edit  group
+edit  institution
+edit  suggestion
+
+add result release date issue
+
